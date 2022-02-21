@@ -1,0 +1,7 @@
+# 
+tienda/secret.json
+# 
+tienda\applications\home\migrations
+tienda\applications\producto\migrations
+tienda\applications\users\migrations
+tienda\applications\venta\migrations

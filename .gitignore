@@ -1,5 +1,6 @@
 # 
 tienda/secret.json
+tienda/fbkey.json
 # 
 tienda\applications\home\migrations
 tienda\applications\producto\migrations
